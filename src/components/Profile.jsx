@@ -11,7 +11,7 @@ function Profile() {
             </div>
 
             <h1 className="text-3xl font-extrabold tracking-tight mb-2 text-transparent bg-clip-text bg-gradient-to-r from-white via-purple-100 to-white drop-shadow-sm">Pigletopia 🐹</h1>
-            <p className="text-base font-medium opacity-90 tracking-wide">A little collage of love 💛</p>
+            
         </div>
     );
 }
