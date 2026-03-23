@@ -12,7 +12,7 @@ const links = [
     },
     {
         title: "Facebook",
-        url: "https://facebook.com",
+        url: "https://www.facebook.com/share/1UaQ7ztBru/?mibextid=wwXIfr",
         icon: "📘",
     },
 ];
